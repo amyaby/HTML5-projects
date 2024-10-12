@@ -4,7 +4,7 @@ HTML projects by skill level :)
 
 Purpose: The **section** element is used to define a thematic grouping of content, typically with a heading. It's meant to encapsulate a related set of content and is often used to break up a webpage into distinct parts.
 Usage: Sections are used to structure the content logically, making it easier for users and search engines to understand the layout and context of the information on a page.
-<section>: Can contain headings, paragraphs, images, and other block elements to define a part of the page.
+**section**: Can contain headings, paragraphs, images, and other block elements to define a part of the page.
 
 
 *********      ********           ********
