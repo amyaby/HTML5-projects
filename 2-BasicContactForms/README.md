@@ -1,7 +1,22 @@
 ***Description:*** Create a simple contact form with fields for name, email, message, date,age,color, username, password.. using label and input tags.
 # Student form
 
-        ![alt text](img/image3.png)
+        Réalisez un formulaire HTML qui contient les informations
+
+suivantes:
+
+Informations personnelles :
+• Nom
+• Prénom
+• Date de naissance
+• Email
+• Téléphone
+
+Informations professionnelles :
+• Établissement
+• Filière
+• Type de filière (Licence,
+Master ou Ingénieur)
 ******                    ********           *******
 
  <input type="submit" value="Send Message">
