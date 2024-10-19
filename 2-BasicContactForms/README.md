@@ -1,12 +1,20 @@
 ***Description:*** Create a simple contact form with fields for name, email, message, date,age,color, username, password.. using label and input tags.
+# Student form
+        ![alt text] (Screenshot_19-10-2024_123324_drive.google.com.jpeg)
 ******                    ********           *******
 
+ ```html
  <input type="submit" value="Send Message">
-         ![alt text](image.png)
+ ```
+         ![alt text](img/image.png)
+```html
 <label for="message">Message:</label>
-        ![alt text](image-1.png)
+```
+        ![alt text](img/image-1.png)
+```html
 <textarea id="message" name="message" placeholder="Your Message"></textarea><br><br>
-        ![alt text](image-2.png)
+```
+        ![alt text](img/image-2.png)
 
 ******                    ********           *******
 __Why Use a Form?__
