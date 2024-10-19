@@ -6,15 +6,15 @@
  ```html
  <input type="submit" value="Send Message">
  ```
-         ![alt text](img/image.png)
+         ![alt text](../img/image.png)
 ```html
 <label for="message">Message:</label>
 ```
-        ![alt text](img/image-1.png)
+        ![alt text](../img/image-1.png)
 ```html
 <textarea id="message" name="message" placeholder="Your Message"></textarea><br><br>
 ```
-        ![alt text](img/image-2.png)
+        ![alt text](../img/image-2.png)
 
 ******                    ********           *******
 __Why Use a Form?__
